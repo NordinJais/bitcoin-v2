@@ -1,5 +1,5 @@
-Bitcoin-v2 has nothing to lose.
-Bitcoin Core integration/staging tree. 
+Bitcoin-v2-has nothing to lose.
+Bitcoin-v2 integration/staging tree. 
 =====================================
 
 https://bitcoincore.org
@@ -7,7 +7,7 @@ https://bitcoincore.org
 For an immediately usable, binary version of the Bitcoin Core software, see
 https://bitcoincore.org/en/download/.
 
-What is Bitcoin Core?
+What is Bitcoin-v2?
 ---------------------
 
 Bitcoin Core connects to the Bitcoin peer-to-peer network to download and fully
