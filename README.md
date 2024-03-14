@@ -10,7 +10,7 @@ https://bitcoincore.org/en/download/.
 What is Bitcoin-v2?
 ---------------------
 
-Bitcoin Core connects to the Bitcoin peer-to-peer network to download and fully
+Bitcoin-v2 connects to the Bitcoin-v2 peer-to-peer network to download and fully
 validate blocks and transactions. It also includes a wallet and graphical user
 interface, which can be optionally built.
 
@@ -70,7 +70,7 @@ Translations
 ------------
 
 Changes to translations as well as new translations can be submitted to
-[Bitcoin Core's Transifex page](https://www.transifex.com/bitcoin/bitcoin/).
+[Bitcoin-v2 Transifex page](https://www.transifex.com/bitcoinv2/bitcoinv2/).
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the
 [translation process](doc/translation_process.md) for details on how this works.
