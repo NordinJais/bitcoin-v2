@@ -1,4 +1,5 @@
-Bitcoin Core integration/staging tree
+Bitcoin-v2 has nothing to lose.
+Bitcoin Core integration/staging tree. 
 =====================================
 
 https://bitcoincore.org
